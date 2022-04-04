@@ -1761,7 +1761,7 @@ h3.title-border:after {
     background: #e7e7e7;
 }
 
-.rs-services .services-list .single-services .serivec-icon {
+.rs-services .services-list .single-services .service-icon {
     float: left;
     margin-right: 25px;
     font-size: 40px;
@@ -1769,16 +1769,16 @@ h3.title-border:after {
     color: #FAE980;
 }
 
-.rs-services .services-list .single-services .serivec-icon .glyph-icon:before {
+.rs-services .services-list .single-services .service-icon .glyph-icon:before {
     margin-left: 0;
     font-size: 50px;
 }
 
-.rs-services .services-list .single-services .serices-details {
+.rs-services .services-list .single-services .service-details {
     overflow: hidden;
 }
 
-.rs-services .services-list .single-services .serices-details h3 {
+.rs-services .services-list .single-services .service-details h3 {
     font-size: 22px;
     margin: 0 0 20px;
     color: #101010;
@@ -1788,49 +1788,49 @@ h3.title-border:after {
     -ms-transition: 0.4s;
 }
 
-.rs-services .services-list .single-services .serices-details p {
+.rs-services .services-list .single-services .service-details p {
     margin-bottom: 0;
     font-size: 14px;
     color: #505050;
     font-weight: 400;
 }
 
-.rs-services .services-list .single-services:hover .serices-details h3 {
+.rs-services .services-list .single-services:hover .service-details h3 {
     color: #FAE980;
 }
 
-.rs-services.drak-color .services-list .single-services:nth-child(2n+1) {
+.rs-services.dark-color .services-list .single-services:nth-child(2n+1) {
     background: #0f0f0f;
 }
 
-.rs-services.drak-color .services-list .single-services:nth-child(2n) {
+.rs-services.dark-color .services-list .single-services:nth-child(2n) {
     background: #181818;
 }
 
-.rs-services.drak-color .services-list .single-services h3 {
+.rs-services.dark-color .services-list .single-services h3 {
     color: #ffffff;
 }
 
-.rs-services.drak-color .services-list .single-services:hover {
+.rs-services.dark-color .services-list .single-services:hover {
     background: #FAE980;
 }
 
-.rs-services.drak-color .services-list .single-services:hover .serivec-icon,
-.rs-services.drak-color .services-list .single-services:hover .serices-details p,
-.rs-services.drak-color .services-list .single-services:hover h3 {
+.rs-services.dark-color .services-list .single-services:hover .service-icon,
+.rs-services.dark-color .services-list .single-services:hover .service-details p,
+.rs-services.dark-color .services-list .single-services:hover h3 {
     color: #101010 !important;
 }
 
-.rs-services.drak-color .serices-details h3 a {
+.rs-services.dark-color .service-details h3 a {
     color: #fff;
     font-weight: 700;
 }
 
-.rs-services.drak-color .serices-details p {
+.rs-services.dark-color .service-details p {
     color: #ddd !important;
 }
 
-.rs-services.drak-color .serices-details p:hover {
+.rs-services.dark-color .service-details p:hover {
     color: #101010 !important;
 }
 

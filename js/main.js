@@ -358,12 +358,6 @@
                 };
                 var map = new google.maps.Map(document.getElementById("googleMap"),
                     mapOptions);
-                var marker = new google.maps.Marker({
-                    position: map.getCenter(),
-                    animation: google.maps.Animation.BOUNCE,
-                    icon: 'images/map-marker.png',
-                    map: map
-                });
             }
             // Add the map initialize function to the window load function
         google.maps.event.addDomListener(window, "load", initialize);

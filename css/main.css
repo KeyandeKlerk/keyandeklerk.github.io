@@ -170,11 +170,11 @@ strong {
 }
 
 label {
-    color: #23222d
+    color: #000000
 }
 
 a {
-    color: #303849;
+    color: #000000;
     text-decoration: none;
     transition: all .2s ease-in-out 0s
 }
@@ -321,7 +321,7 @@ table th {
 }
 
 table th {
-    color: #23222d;
+    color: #000000;
     font-weight: 400;
     vertical-align: middle
 }
@@ -589,7 +589,7 @@ select,
     background-color: transparent;
     border: 1px solid rgba(35, 34, 45, .1);
     border-radius: 0;
-    color: #303849;
+    color: #000000;
     font-size: 16px;
     font-weight: 300;
     height: 60px;
@@ -613,8 +613,8 @@ button {
 input[type=submit],
 button {
     background: 0 0;
-    border: 1px solid #23222d;
-    color: #23222d;
+    border: 1px solid #000000;
+    color: #000000;
     cursor: pointer;
     font-size: 12px;
     font-weight: 700;
@@ -668,7 +668,7 @@ select[multiple] {
 select option,
 .form-control option {
     background-color: #fff;
-    color: #23222d;
+    color: #000000;
     font-weight: 300
 }
 
@@ -687,21 +687,21 @@ select option,
 }
 
 .form-control:-moz-placeholder {
-    color: #303849;
+    color: #000000;
     opacity: 1
 }
 
 .form-control::-moz-placeholder {
-    color: #303849;
+    color: #000000;
     opacity: 1
 }
 
 .form-control:-ms-input-placeholder {
-    color: #303849
+    color: #000000
 }
 
 .form-control::-webkit-input-placeholder {
-    color: #303849
+    color: #000000
 }
 
 .form-control:focus:-moz-placeholder {
@@ -796,7 +796,7 @@ input[type=checkbox]+label {
 }
 
 input[type=checkbox]+label>a {
-    color: #23222d
+    color: #000000
 }
 
 input[type=checkbox]+label:before {
@@ -815,7 +815,7 @@ input[type=checkbox]+label:before {
 }
 
 input[type=checkbox]:checked+label:before {
-    color: #23222d;
+    color: #000000;
     content: "\f00c"
 }
 
@@ -854,7 +854,7 @@ input[type=radio]+label:before {
 
 input[type=radio]:checked+label:before {
     background-clip: content-box;
-    background-color: #23222d;
+    background-color: #000000;
     padding: 3px
 }
 
@@ -913,7 +913,7 @@ select {
 
 .nav-tabs .nav-link:hover {
     background-color: #ff0000;
-    color: #23222d
+    color: #000000
 }
 
 .nav-tabs .nav-item.show .nav-link,
@@ -922,7 +922,7 @@ select {
 }
 
 .nav-link {
-    color: #303849;
+    color: #000000;
     padding: 19px 50px 17px
 }
 
@@ -1107,7 +1107,7 @@ select {
 
 [role=tablist] .card-header a {
     border-bottom: 2px solid rgba(48, 56, 73, .1);
-    color: #23222d;
+    color: #000000;
     display: block;
     font-size: 20px;
     padding: 15px 70px 15px 0;
@@ -1199,7 +1199,7 @@ select {
 .dropdown .dropdown-menu label,
 .dropdown .dropdown-menu h3,
 .dropdown .dropdown-menu h4 {
-    color: #23222d
+    color: #000000
 }
 
 .dropdown.show .dropdown-menu input {
@@ -1209,7 +1209,7 @@ select {
 .dropdown-menu>li>a:focus,
 .dropdown-menu>li>a:hover {
     background-color: transparent;
-    color: #23222d
+    color: #000000
 }
 
 .dropdwon-menu-title {
@@ -1346,7 +1346,7 @@ td .media-body {
 }
 
 .embed-responsive-3by2 {
-    background-color: #23222d;
+    background-color: #000000;
     height: 0;
     padding-bottom: 48.3%
 }
@@ -1386,7 +1386,7 @@ td .media-body {
 .alert {
     border-radius: 0;
     border-width: 0;
-    color: #23222d;
+    color: #000000;
     margin-bottom: 20px;
     padding: 18px 33px
 }
@@ -1522,7 +1522,7 @@ h6 small {
 }
 
 .progress .progress-bar span {
-    color: #303849;
+    color: #000000;
     font-size: 16px;
     position: absolute;
     right: 0;
@@ -2033,13 +2033,13 @@ h6 small {
 }
 
 .ls .owl-dots .owl-dot span {
-    background-color: #303849;
-    border: 1px solid #303849
+    background-color: #000000;
+    border: 1px solid #000000
 }
 
 .ls .owl-dots .owl-dot.active span,
 .ls .owl-dots .owl-dot:hover span {
-    border-color: #303849;
+    border-color: #000000;
     opacity: 1
 }
 
@@ -2377,7 +2377,7 @@ html[xmlns] .slides {
 
 .flex-custom-nav .flex-custom-link {
     bottom: 7px;
-    color: #23222d;
+    color: #000000;
     font-size: 12px;
     margin: 0 8px;
     position: relative
@@ -7470,12 +7470,12 @@ img {
 }
 
 .s-overlay.ds:before {
-    background-color: #23222d;
+    background-color: #000000;
     opacity: .6
 }
 
 .s-overlay.ds.ms:before {
-    background-color: #303849;
+    background-color: #000000;
     opacity: .7
 }
 
@@ -8232,8 +8232,8 @@ body.boxed {
 }
 
 [class*=-item] .links-wrap a.link-zoom {
-    background-color: #303849;
-    border-color: #303849;
+    background-color: #000000;
+    border-color: #000000;
     border-radius: 50px;
     color: #fff
 }
@@ -8245,7 +8245,7 @@ body.boxed {
 [class*=-item] .links-wrap a.link-anchor {
     background-color: #fff;
     border-color: #fff;
-    color: #23222d;
+    color: #000000;
     transition-delay: .1s
 }
 
@@ -8338,42 +8338,42 @@ body.boxed {
 
 .btn-secondary {
     border-color: rgba(48, 56, 73, .1);
-    color: #303849
+    color: #000000
 }
 
 .btn-maincolor {
     background-color: #ff0000;
     border-color: #ff0000;
-    color: #303849
+    color: #000000
 }
 
 .btn-maincolor:hover {
-    background-color: #303849;
-    border-color: #303849;
+    background-color: #000000;
+    border-color: #000000;
     color: #fff
 }
 
 .btn-dark {
-    background-color: #303849;
-    border-color: #303849;
+    background-color: #000000;
+    border-color: #000000;
     color: #fff
 }
 
 .btn-dark:hover {
     background-color: #ff0000;
     border-color: #ff0000;
-    color: #303849
+    color: #000000
 }
 
 .btn-grey {
     background-color: #f7f8f8;
     border-color: #f7f8f8;
-    color: #303849
+    color: #000000
 }
 
 .btn-grey:hover {
     background-color: transparent;
-    color: #303849
+    color: #000000
 }
 
 .btn-outline-maincolor,
@@ -8384,7 +8384,7 @@ body.boxed {
 .btn-outline-maincolor:hover,
 .btn-outline-dark:hover {
     background-color: transparent;
-    color: #303849
+    color: #000000
 }
 
 .btn-outline-maincolor {
@@ -8392,11 +8392,11 @@ body.boxed {
 }
 
 .btn-outline-maincolor:hover {
-    border-color: #303849
+    border-color: #000000
 }
 
 .btn-outline-dark {
-    border-color: #303849
+    border-color: #000000
 }
 
 .btn-outline-dark:hover {
@@ -8410,12 +8410,12 @@ body.boxed {
 
 .btn-outline-grey:hover {
     background-color: #f7f8f8;
-    color: #303849
+    color: #000000
 }
 
 .ds .btn-maincolor,
 .ds .btn-dark {
-    color: #303849
+    color: #000000
 }
 
 .ds .btn-maincolor:hover {
@@ -8456,8 +8456,8 @@ body.boxed {
 }
 
 .cs .btn-maincolor:hover {
-    background-color: #303849;
-    border-color: #303849;
+    background-color: #000000;
+    border-color: #000000;
     color: #fff
 }
 
@@ -8468,11 +8468,11 @@ body.boxed {
 
 .cs .btn-outline-maincolor {
     border-color: #fff;
-    color: #303849
+    color: #000000
 }
 
 .cs .btn-outline-maincolor:hover {
-    border-color: #303849
+    border-color: #000000
 }
 
 .cs .btn-outline-dark:hover {
@@ -8490,7 +8490,7 @@ body.boxed {
 
 .cs .btn-outline-warning {
     border-color: #fff;
-    color: #303849
+    color: #000000
 }
 
 .cs .btn-outline-warning:hover {
@@ -8606,22 +8606,22 @@ body.boxed {
 
 .corner.ds.corner-mirror:before,
 .corner.ds:after {
-    border-bottom-color: #23222d;
-    border-top-color: #23222d
+    border-bottom-color: #000000;
+    border-top-color: #000000
 }
 
 .corner.ds.corner-inverse:after {
-    border-bottom-color: #23222d
+    border-bottom-color: #000000
 }
 
 .corner.ds.ms.corner-mirror:before,
 .corner.ds.ms:after {
-    border-bottom-color: #303849;
-    border-top-color: #303849
+    border-bottom-color: #000000;
+    border-top-color: #000000
 }
 
 .corner.ds.ms.corner-inverse:after {
-    border-bottom-color: #303849
+    border-bottom-color: #000000
 }
 
 .corner.ds.bs.corner-mirror:before,
@@ -8666,7 +8666,7 @@ body.boxed {
 
 .ls {
     background-color: #fff;
-    color: #303849
+    color: #000000
 }
 
 .ls.ms {
@@ -8794,11 +8794,11 @@ body.boxed {
 
 .ls.ms .vertical-tabs .nav>li>a:hover,
 .ls.ms .vertical-tabs .nav>li.active>a {
-    background-color: #23222d
+    background-color: #000000
 }
 
 .ls.ms .panel-title>a {
-    background-color: #23222d
+    background-color: #000000
 }
 
 .ls.ms .panel-title>a.collapsed {
@@ -8811,7 +8811,7 @@ body.boxed {
 
 .ls.ms .panel-title>a.collapsed:hover,
 .ls.ms .panel-title>a:hover {
-    background-color: #23222d
+    background-color: #000000
 }
 
 .ls.ms .pagination a,
@@ -8821,7 +8821,7 @@ body.boxed {
 }
 
 .ls.ms .breadcrumb {
-    color: #303849
+    color: #000000
 }
 
 .ls.ms .breadcrumb a {
@@ -8837,17 +8837,17 @@ body.boxed {
 }
 
 .ds {
-    background-color: #23222d;
+    background-color: #000000;
     color: #fff
 }
 
 .ds.ms {
-    background-color: #303849
+    background-color: #000000
 }
 
 .ds.ms .muted-bg,
 .ds.ms .hero-bg {
-    background-color: #23222d
+    background-color: #000000
 }
 
 .ds.bs {
@@ -8892,7 +8892,7 @@ body.boxed {
 
 .ds .ls {
     background-color: #fff;
-    color: #303849
+    color: #000000
 }
 
 .ds .ls h1,
@@ -8901,7 +8901,7 @@ body.boxed {
 .ds .ls h4,
 .ds .ls h5,
 .ds .ls h6 {
-    color: #23222d
+    color: #000000
 }
 
 .ds .ls h1 a,
@@ -8923,7 +8923,7 @@ body.boxed {
 }
 
 .ds .ls a:not(.btn) {
-    color: #23222d
+    color: #000000
 }
 
 .ds .ls a:not(.btn):hover {
@@ -8954,7 +8954,7 @@ body.boxed {
 
 .ds .muted-bg,
 .ds .hero-bg {
-    background-color: #303849
+    background-color: #000000
 }
 
 .ds .bordered {
@@ -9388,7 +9388,7 @@ body.boxed {
 
 .cs {
     background-color: #ff0000;
-    color: #23222d
+    color: #000000
 }
 
 .cs h1,
@@ -9397,7 +9397,7 @@ body.boxed {
 .cs h4,
 .cs h5,
 .cs h6 {
-    color: #23222d
+    color: #000000
 }
 
 .cs h1 a,
@@ -9480,8 +9480,8 @@ body.boxed {
 }
 
 .cs .color-darkgrey {
-    border-color: #23222d;
-    color: #23222d
+    border-color: #000000;
+    color: #000000
 }
 
 .cs .response,
@@ -9501,7 +9501,7 @@ body.boxed {
 .cs .form-control {
     background-color: #fff;
     border-color: rgba(35, 34, 45, .1);
-    color: #23222d
+    color: #000000
 }
 
 .cs .form-control:focus {
@@ -9509,21 +9509,21 @@ body.boxed {
 }
 
 .cs .form-control:-moz-placeholder {
-    color: #23222d;
+    color: #000000;
     opacity: 1
 }
 
 .cs .form-control::-moz-placeholder {
-    color: #23222d;
+    color: #000000;
     opacity: 1
 }
 
 .cs .form-control:-ms-input-placeholder {
-    color: #23222d
+    color: #000000
 }
 
 .cs .form-control::-webkit-input-placeholder {
-    color: #23222d
+    color: #000000
 }
 
 .cs .form-control:focus:-moz-placeholder {
@@ -9556,11 +9556,11 @@ body.boxed {
 }
 
 .cs a.fa.color-bg-icon:hover {
-    background-color: #23222d
+    background-color: #000000
 }
 
 .cs a.links-darkgrey {
-    color: #303849
+    color: #000000
 }
 
 .cs a.links-darkgrey:hover {
@@ -9572,7 +9572,7 @@ body.boxed {
 }
 
 .cs .btn-action i {
-    color: #23222d
+    color: #000000
 }
 
 .cs .btn-action:hover i {
@@ -9920,12 +9920,12 @@ body.boxed {
 }
 
 .color-dark {
-    border-color: #303849;
-    color: #303849
+    border-color: #000000;
+    color: #000000
 }
 
 .color-grey {
-    color: #303849
+    color: #000000
 }
 
 .color-light {
@@ -9977,7 +9977,7 @@ a.links-maincolor,
 }
 
 .links-grey a {
-    color: #303849
+    color: #000000
 }
 
 .links-grey a:hover {
@@ -9985,7 +9985,7 @@ a.links-maincolor,
 }
 
 .links-darkgrey a {
-    color: #23222d
+    color: #000000
 }
 
 .links-darkgrey a:hover {
@@ -10009,7 +10009,7 @@ a.links-maincolor,
 }
 
 .bg-dark {
-    background-color: #303849
+    background-color: #000000
 }
 
 .bg-darkblue {
@@ -10018,7 +10018,7 @@ a.links-maincolor,
 }
 
 .bg-darkgrey {
-    background-color: #23222d;
+    background-color: #000000;
     color: #fff
 }
 
@@ -14122,7 +14122,7 @@ span.muted-bg {
 .gallery-tiled .item-content.padding-small.triangle-right:before,
 .gallery-tiled .item-content.padding-small.triangle-left:before {
     border-bottom: 10px solid transparent;
-    border-left: 10px solid #303849;
+    border-left: 10px solid #000000;
     border-top: 10px solid transparent;
     content: "";
     height: 0;
@@ -14217,7 +14217,7 @@ span.muted-bg {
 
 @media(min-width:1200px) {
     .steps .step+.step .step-image:after {
-        background-color: #303849;
+        background-color: #000000;
         content: "";
         display: inline-block;
         height: 26px;
@@ -14238,7 +14238,7 @@ span.muted-bg {
 }
 
 .steps .step:nth-child(3) .step-image:after {
-    background-color: #303849;
+    background-color: #000000;
     left: -28%;
     -webkit-mask: url(../img/step_arrow_2.png);
     top: 50%
@@ -14353,7 +14353,7 @@ span.muted-bg {
 
 .ls.item-steps .step-part:before,
 .ls .item-steps .step-part:before {
-    color: #303849
+    color: #000000
 }
 
 @media(max-width:1199px) {
@@ -14557,7 +14557,7 @@ aside>*+* {
 
 .stars a:before,
 .stars a:hover~a:before {
-    color: #303849;
+    color: #000000;
     content: "\f006"
 }
 
@@ -14569,7 +14569,7 @@ aside>*+* {
 }
 
 .stars.selected a.active~a:before {
-    color: #303849;
+    color: #000000;
     content: "\f005";
     opacity: .75
 }
@@ -14791,8 +14791,8 @@ aside>*+* {
 }
 
 .mailchimp-with-text .widget_mailchimp form button.search-submit.btn.btn-dark {
-    background-color: #303849;
-    border: 1px solid #303849;
+    background-color: #000000;
+    border: 1px solid #000000;
     font-size: 16px;
     margin-bottom: 0;
     margin-left: 10px;
@@ -14804,7 +14804,7 @@ aside>*+* {
 .mailchimp-with-text .widget_mailchimp form button.search-submit.btn.btn-dark:hover {
     background-color: #fff;
     border-color: #fff;
-    color: #303849
+    color: #000000
 }
 
 @media(min-width:768px) {
@@ -15030,7 +15030,7 @@ aside>*+* {
 }
 
 .widget_calendar caption {
-    background-color: #303849;
+    background-color: #000000;
     color: #fff;
     font-size: 20px;
     line-height: 1;
@@ -15187,7 +15187,7 @@ aside>*+* {
 }
 
 .widget_rss .rss-date {
-    color: #23222d;
+    color: #000000;
     display: block;
     font-size: 12px;
     font-weight: 700;
@@ -15210,7 +15210,7 @@ aside>*+* {
 .tagcloud a:hover {
     background-color: #ff0000;
     border-color: #ff0000;
-    color: #23222d
+    color: #000000
 }
 
 .widget_flickr ul {
@@ -15326,7 +15326,7 @@ aside>*+* {
 
 .apsc-theme-4 .apsc-each-profile a {
     border: 1px solid rgba(48, 56, 73, .1);
-    color: #303849;
+    color: #000000;
     display: block;
     font-size: 16px;
     line-height: 1;
@@ -17389,11 +17389,11 @@ a.fa-rss.bg-icon:hover,
 }
 
 a.fa {
-    color: #303849
+    color: #000000
 }
 
 a.border-icon {
-    border: 1px solid #303849;
+    border: 1px solid #000000;
     border-color: rgba(48, 56, 73, .4)
 }
 
@@ -17406,12 +17406,12 @@ a.bg-icon {
 }
 
 a.color-bg-icon {
-    background-color: #23222d;
+    background-color: #000000;
     color: #fff
 }
 
 a.fa.color-icon:hover {
-    color: #23222d
+    color: #000000
 }
 
 a.fa.bg-icon:hover {
@@ -17424,7 +17424,7 @@ a.fa.color-bg-icon:hover {
 }
 
 a.color-icon:hover {
-    color: #23222d
+    color: #000000
 }
 
 a.color-icon.border-icon:hover {
@@ -17583,7 +17583,7 @@ a img.aligncenter {
 .page-links>a.dots {
     background-color: transparent;
     border-color: transparent;
-    color: #303849;
+    color: #000000;
     cursor: not-allowed!important;
     font-size: 24px;
     left: 2px;
@@ -17834,7 +17834,7 @@ a img.aligncenter {
     }
     .cs .sf-menu>li>a:hover,
     .cs .sf-menu>li.active>a {
-        color: #23222d
+        color: #000000
     }
     .ds .sf-menu>li>a {
         color: #fff
@@ -17848,7 +17848,7 @@ a img.aligncenter {
         font-weight: 400
     }
     .ls .sf-menu>li>a {
-        color: #23222d
+        color: #000000
     }
     .ls .sf-menu>li>a:hover,
     .ls .sf-menu>li.active>a {
@@ -17880,7 +17880,7 @@ a img.aligncenter {
         padding-right: 0
     }
     .sf-menu.nav ul a {
-        color: #23222d;
+        color: #000000;
         padding-left: 40px;
         padding-right: 40px
     }
@@ -18071,7 +18071,7 @@ a img.aligncenter {
 .ls .toggle_menu span,
 .ls .toggle_menu span:before,
 .ls .toggle_menu span:after {
-    background-color: #23222d
+    background-color: #000000
 }
 
 @media(max-width:767px) {
@@ -18132,7 +18132,7 @@ a img.aligncenter {
         position: relative
     }
     .top-nav .sf-menu a {
-        color: #23222d;
+        color: #000000;
         display: block;
         padding: 10px;
         z-index: 2
@@ -18168,7 +18168,7 @@ a img.aligncenter {
         z-index: 1
     }
     .sf-arrows .sf-with-ul+.sf-menu-item-mobile-toggler:after {
-        color: #23222d;
+        color: #000000;
         content: "\f105";
         font-family: fontawesome
     }
@@ -18733,7 +18733,7 @@ a.logo .logo-text {
 }
 
 a.logo .logo-subtext {
-    color: #303849!important;
+    color: #000000!important;
     font-size: 12px;
     letter-spacing: .48em;
     line-height: 1;
@@ -18846,25 +18846,25 @@ a.logo:hover>img {
 }
 
 #search_modal .form-control:-moz-placeholder {
-    color: #303849;
+    color: #000000;
     opacity: 1
 }
 
 #search_modal .form-control::-moz-placeholder {
-    color: #303849;
+    color: #000000;
     opacity: 1
 }
 
 #search_modal .form-control:-ms-input-placeholder {
-    color: #303849
+    color: #000000
 }
 
 #search_modal .form-control::-webkit-input-placeholder {
-    color: #303849
+    color: #000000
 }
 
 #search_modal .btn {
-    color: #23222d;
+    color: #000000;
     font-size: 0;
     height: 60px;
     min-width: auto;
@@ -18887,7 +18887,7 @@ a.logo:hover>img {
 }
 
 #search_modal .btn:before {
-    color: #23222d;
+    color: #000000;
     font-size: 18px
 }
 
@@ -19042,7 +19042,7 @@ html.html-active-push-header {
 .ls .toggle_menu_side span:before,
 .ls .toggle_menu_side span:after,
 .ls .toggle_menu_side span {
-    background-color: #303849
+    background-color: #000000
 }
 
 .toggle_menu_side {
@@ -19212,14 +19212,14 @@ body.active-side-header.slide-right .page_header_side {
 }
 
 .bg-toggler .toggle_menu.active span:before {
-    background-color: #23222d!important;
+    background-color: #000000!important;
     left: -12px;
     top: 9px
 }
 
 .toggle-dark .toggle_menu.active span,
 .toggle-dark .toggle_menu.active:before {
-    background-color: #23222d!important
+    background-color: #000000!important
 }
 
 .page_slider {
@@ -19759,7 +19759,7 @@ h6.entry-title {
 .cat-links a {
     background-color: #ff0000;
     border-radius: 0;
-    color: #303849;
+    color: #000000;
     display: inline-block;
     font-size: 16px;
     font-weight: 400;
@@ -19769,7 +19769,7 @@ h6.entry-title {
 }
 
 .cat-links a:hover {
-    background-color: #303849;
+    background-color: #000000;
     color: #fff
 }
 
@@ -20427,7 +20427,7 @@ img.absolute_image {
 
 .dropdown-shopping-cart .badge {
     border-radius: 1em;
-    color: #303849;
+    color: #000000;
     font-size: 10px;
     left: 7px;
     padding: .27em .47em;
@@ -20828,7 +20828,7 @@ button.gm-ui-hover-effect {
 }
 
 #switcher {
-    background-color: #303849;
+    background-color: #000000;
     color: #fff;
     font-size: 15px;
     padding-bottom: 20px;
@@ -20968,7 +20968,7 @@ button.gm-ui-hover-effect {
 
 #switcher-version a.light {
     background-color: #fff;
-    color: #23222d
+    color: #000000
 }
 
 #switcher-version a.dark {
